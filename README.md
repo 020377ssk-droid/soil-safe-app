@@ -1,2 +1,4 @@
-# Soil-Safe: AI-Powered Soil Health Monitoring,Crop Rotation and Sustainable Farming Platform
-Soil safe is an AI-based application that helps assess soil quality and provides insights for healthier crops and sustainable agriculture.
+# Soil-Safe: AI-Powered Soil Health Monitoring, Crop Rotation and Sustainable Farming Platform
+Agriculture is one of the most important sectors in India, but farmers face many problems that affect the crop production. Agriculture is facing problems such as soil degradation, nutrient depletion, erosion and declining agricultural productivity due to continuous monocropping, excessive fertilizer usage, poor irrigation practices and over farming. Soil Safe is an AI-Powered platform that helps farmers monitor soil health, predict crop yeield, recommend suitable crop rotation and promotes sustainable farming practices. Farmers often lack proper information about soil health, Resulting in poor crop selection, low productivity and increased farming costs. Excessive fertilizer use and soil erosion also harms the environment. The project aims to solve these problems by providing AI-Based soil analysis and smart farming recommendations.
+
+
