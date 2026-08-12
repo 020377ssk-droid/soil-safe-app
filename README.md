@@ -4,5 +4,5 @@ Agriculture is one of the most important sectors in India, but farmers face many
 The objective of this platform is to monitor soil health, predict crop yield, recommend crop rotation, improve soil fertility, reduce fertilizer usage and promotes sustainable farming. This platform will be very useful for farmers, researchers, agricultural officers, soil testing labs, government and NGOs. This platform contributes to some UN SDGs such as SDG2-Zero Hunger, SDG3-Climate Action and SDG4-Life on Land. 
 
 This Platform uses AI to support smart farming through soil health analysis, yield production, crop recommendation, erosion prediction, fertilizer optimization and smart irrigation. This platform aims to provide an AI-Powered Solution for soil health monitoring and supporting sustainable farming. It helps farmers analyze soil conditions, predict crop yield, recommend crop rotation and improve farming practices. In the future, the platform can be integrated with IoT sensors, weather data, satellite imagery for real-time monitoring and more accurate recommendations.
-
+Vaishnavi is so smart
 
